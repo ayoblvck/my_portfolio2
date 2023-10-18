@@ -1,5 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My interests include Data Science, Machine learning and cloud computing
   matter.
 education:
   courses:
@@ -45,5 +45,5 @@ superuser: true
 title: Maryam Sanni
 ---
 
-Maryam Sanni is a data scientist who possesses a high level of proficiency in R, SQL, and Python, along with excellent critical thinking skills. She has a thorough understanding of statistical, algebraic, and other analytical methods, and stays well-informed on recent developments in Data Science and Machine Learning. With a strong passion for learning and a drive to utilize cutting-edge data science technology, she is eager to contribute her skills to further the mission of your company.
+A Data Scientist, with a distinction in M.Sc Digital Health & Artificial Intelligence and an experience enriched by roles at renowned firms like GlaxoSmithKline and Travex Travels. I am proficient in several data science and machine learning tools and have a knack for deciphering complex data patterns. Beyond the numbers, I champion STEM initiatives, offering a blend of visual flair in data representation and a keen analytical insight. My commitment is to innovation and I prioritize continous learning and adapting to the ever evolving landscape of Data Science.
 {style="text-align: justify;"}

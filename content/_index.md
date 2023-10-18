@@ -11,13 +11,19 @@ sections:
     items:
     - icon: r-project
       icon_pack: fab
-      name: R
+      name: Machine Learning
+    - icon: r-project
+      icon_pack: fab
+      name: Data Wrangling
     - icon: chart-line
       icon_pack: fas
-      name: Statistics
+      name: Data Visualization
+    - icon: chart-line
+      icon_pack: fas
+      name: Cloud Computing
     - icon: camera-retro
       icon_pack: fas
-      name: Python
+      name: Programming Languages (Python, R, JavaScript)
     title: Skills
 - block: experience
   content:
@@ -36,18 +42,39 @@ sections:
           * Deploying
       location: United Kingdom
       title: Statistical Data Scientist
-    - date_end: ""
+    - company: Travex Travel Limited
+      date_end: ""
       date_start: "2022-09-10"
       description: |2-
           Responsibilities include:
           * Analysing
           * Modelling
           * Deploying
-      location: United Kingdom
-      title: Freelance Data Scientist      
+      title: Data Scientist      
     title: Experience
   design:
     columns: "2"
+- block: portfolio
+  content:
+    buttons:
+    - name: All
+      tag: '*'
+    - name: Machine Learning
+      tag: Machine Learning
+    - name: Data Science
+      tag: Data Science
+    - name: Other
+      tag: Demo
+    default_button_index: 0
+    filters:
+      folders:
+      - project
+    title: Projects
+  design:
+    columns: "1"
+    flip_alt_rows: false
+    view: showcase
+  id: projects
 - block: accomplishments
   content:
     date_format: Jan 2006
@@ -94,25 +121,6 @@ sections:
     columns: "2"
     view: compact
   id: posts
-- block: portfolio
-  content:
-    buttons:
-    - name: All
-      tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
-    default_button_index: 0
-    filters:
-      folders:
-      - project
-    title: Projects
-  design:
-    columns: "1"
-    flip_alt_rows: false
-    view: showcase
-  id: projects
 - block: markdown
   content:
     subtitle: ""
@@ -120,46 +128,6 @@ sections:
     title: Gallery
   design:
     columns: "1"
-- block: collection
-  content:
-    filters:
-      featured_only: true
-      folders:
-      - publication
-    title: Featured Publications
-  design:
-    columns: "2"
-    view: card
-  id: featured
-- block: collection
-  content:
-    filters:
-      exclude_featured: true
-      folders:
-      - publication
-    text: |-
-      {{% callout note %}}
-      Quickly discover relevant content by [filtering publications](./publication/).
-      {{% /callout %}}
-    title: Recent Publications
-  design:
-    columns: "2"
-    view: citation
-- block: collection
-  content:
-    filters:
-      folders:
-      - event
-    title: Recent & Upcoming Talks
-  design:
-    columns: "2"
-    view: compact
-  id: talks
-- block: tag_cloud
-  content:
-    title: Popular Topics
-  design:
-    columns: "2"
 - block: contact
   content:
     address:

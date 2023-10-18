@@ -1,11 +1,11 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: https://example.org
+external_link: https://tubular-peony-b75acf.netlify.app/
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: A project predicting heart disease. This `external_link` will redirect you to the project.
 tags:
 - Demo
-title: External Project
+title: Heart disease prediction
 ---
