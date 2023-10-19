@@ -99,13 +99,6 @@ sections:
     title: Accomplish&shy;ments
   design:
     columns: "2"
-- block: markdown
-  content:
-    subtitle: ""
-    text: '{{< gallery album="demo" >}}'
-    title: Gallery
-  design:
-    columns: "1"
 - block: contact
   content:
     address:
