@@ -13,7 +13,7 @@ removePathAccents = true
 summaryLength = 30
 theme = 'starter-hugo-academic'
 timeout = 600000
-title = 'Academic'
+title = "About Maryam"
 
 [imaging]
 anchor = 'smart'
