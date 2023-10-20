@@ -2,23 +2,22 @@
 bio: My interests include Data Science, Machine learning and cloud computing
 education:
   courses:
-  - course: MSc Digital Health and Artificial Intelligence
+  - course: MSc Digital Health and Artificial Intelligence - Distinction
     institution: Bournemouth University
   - course: BEng in Biomedical Engineering
     institution: Bells University of Technology
-    year: 2019
 email: "maryamsanni1@yahoo.com"
 first_name: Maryam
 highlight_name: true
 interests:
 - Data Science
-- Artificial Intelligence
-- Package Development
+- Artificial Intelligence - Machine learning, NLP
+- Data Science Package Development
 last_name: Sanni
 organizations:
 - name: GlaxoSmithKline
   url: https://www.gsk.com/
-role: Statistical Data Scientist
+role: Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,7 +39,7 @@ superuser: true
 title: Maryam Sanni
 ---
 
-As a Data Scientist, I've navigated through challenging roles in top-tier industries. 
+_"I'm passionate about shaping the future through data. By understanding and learning from the past, we can drive innovation and make informed decisions."_
 
-**My strength?** Unraveling complex data into clear, actionable insights using state-of-the-art data science and machine learning tools. Beyond the numbers, I champion STEM initiatives, offering a blend of visual flair in data representation and a keen analytical insight. My commitment is to innovation and I prioritize continous learning, while adapting to the ever evolving landscape of Data Science.
+**My strengths?** Unraveling complex data into clear, actionable insights using state-of-the-art data science and machine learning tools. Beyond the numbers, I champion STEM initiatives, blending visual creativity in data representation with deep analytical insights. Having navigated through challenging data science roles in top-tier industries, my commitment is to innovation, continuous learning, and staying attuned to the ever-evolving landscape of Data Science and artificial intelligence.
 {style="text-align: justify;"}

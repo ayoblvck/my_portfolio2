@@ -1,11 +1,13 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: https://tubular-peony-b75acf.netlify.app/
+date: "2021-04-27T00:00:00Z"
+external_link: https://iridescent-sunflower-8a76c1.netlify.app/
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: heart disease
   focal_point: Smart
-summary: A project predicting heart disease. This `external_link` will redirect you to the project.
+summary: A supervised machine learning project predicting heart disease using electronic health records.
 tags: 
 - Machine Learning
 title: Heart disease prediction
 ---
+
+Checkout the project's [GitHub](https://github.com/ayoblvck/Heart-Disease-prediction) page.

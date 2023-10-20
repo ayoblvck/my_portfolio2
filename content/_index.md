@@ -20,13 +20,13 @@ sections:
       name: Data Visualization (Tableau, Power Bi, ggplot, shiny, plotly, Matplotlb)
     - icon: cloud
       icon_pack: custom
-      name: Deployment and Cloud Computing (Flask, AWS, Azure"")
+      name: Deployment and Cloud Computing (Flask, AWS, Azure)
     - icon: program
       icon_pack: custom
       name: Programming Languages (Python, R, JavaScript)
     - icon: version-ctrl
       icon_pack: custom
-      name: Software and tools (Git, JupyterLab, Jupyter Notebook, Docker, )
+      name: Software and tools (Git, JupyterLab, Jupyter Notebook, Docker)
     title: Skills
 - block: experience
   content:
@@ -39,8 +39,11 @@ sections:
       date_start: "2022-09-10"
       description: |2-
           Responsibilities include:
-          * Statistical Analyses
-          * Package development
+          * Optimized clinical trial analysis using R (10% efficiency gain)
+          * Designed interactive data visualization tools.
+          * Collaborated on advanced data analysis projects using R packages
+          * Data analysis package development
+          * Conducted web scraping for R&D integration.
       location: United Kingdom
       title: Statistical Data Scientist
     - company: Travex Travel Limited
@@ -48,8 +51,10 @@ sections:
       date_start: "2022-09-10"
       description: |2-
           Responsibilities include:
-          * Data Visualization
-          * Data Modelling
+          * Data Analysis (Python libraries)
+          * Data Visualization (tableau)
+          * ML Algorithms for audience segmentation
+          * Web scraping for price comparison 
       title: Data Scientist      
     title: Experience
   design:
