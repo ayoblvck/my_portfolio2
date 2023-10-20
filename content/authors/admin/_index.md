@@ -1,11 +1,9 @@
 ---
 bio: My interests include Data Science, Machine learning and cloud computing
-  matter.
 education:
   courses:
   - course: MSc Digital Health and Artificial Intelligence
     institution: Bournemouth University
-    year: 2023
   - course: BEng in Biomedical Engineering
     institution: Bells University of Technology
     year: 2019
@@ -27,9 +25,6 @@ social:
   link: /#contact
 - display:
     header: true
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/ayoblvck
@@ -38,12 +33,14 @@ social:
   link: https://www.linkedin.com/msanni10
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: #
 status:
   icon: ☕️
 superuser: true
 title: Maryam Sanni
 ---
 
-A Data Scientist, with a distinction in M.Sc Digital Health & Artificial Intelligence and an experience enriched by roles at renowned firms like GlaxoSmithKline and Travex Travels. I am proficient in several data science and machine learning tools and have a knack for deciphering complex data patterns. Beyond the numbers, I champion STEM initiatives, offering a blend of visual flair in data representation and a keen analytical insight. My commitment is to innovation and I prioritize continous learning and adapting to the ever evolving landscape of Data Science.
+As a Data Scientist, I've navigated through challenging roles in top-tier industries. 
+
+**My strength?** Unraveling complex data into clear, actionable insights using state-of-the-art data science and machine learning tools. Beyond the numbers, I champion STEM initiatives, offering a blend of visual flair in data representation and a keen analytical insight. My commitment is to innovation and I prioritize continous learning, while adapting to the ever evolving landscape of Data Science.
 {style="text-align: justify;"}

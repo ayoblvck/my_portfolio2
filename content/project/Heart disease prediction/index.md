@@ -5,7 +5,7 @@ image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 summary: A project predicting heart disease. This `external_link` will redirect you to the project.
-tags:
-- Demo
+tags: 
+- Machine Learning
 title: Heart disease prediction
 ---

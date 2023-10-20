@@ -9,21 +9,24 @@ sections:
 - block: features
   content:
     items:
-    - icon: r-project
-      icon_pack: fab
-      name: Machine Learning
-    - icon: r-project
-      icon_pack: fab
-      name: Data Wrangling
-    - icon: chart-line
-      icon_pack: fas
-      name: Data Visualization
-    - icon: chart-line
-      icon_pack: fas
-      name: Cloud Computing
-    - icon: camera-retro
-      icon_pack: fas
+    - icon: ml
+      icon_pack: custom
+      name: Machine Learning Algorithms (Supervised, Unsupervised, Reinforcement)
+    - icon: data-wrangling
+      icon_pack: custom
+      name: Data Wrangling (Python libraries, R packages, SQl, Microsoft Excel)
+    - icon: visualize
+      icon_pack: custom
+      name: Data Visualization (Tableau, Power Bi, ggplot, shiny, plotly, Matplotlb)
+    - icon: cloud
+      icon_pack: custom
+      name: Deployment and Cloud Computing (Flask, AWS, Azure)
+    - icon: program
+      icon_pack: custom
       name: Programming Languages (Python, R, JavaScript)
+    - icon: version-ctrl
+      icon_pack: custom
+      name: Software and tools (Git, JupyterLab, Jupyter Notebook, Docker, )
     title: Skills
 - block: experience
   content:
@@ -36,10 +39,8 @@ sections:
       date_start: "2022-09-10"
       description: |2-
           Responsibilities include:
-
-          * Analysing
-          * Modelling
-          * Deploying
+          * Statistical Analyses
+          * Package development
       location: United Kingdom
       title: Statistical Data Scientist
     - company: Travex Travel Limited
@@ -47,9 +48,8 @@ sections:
       date_start: "2022-09-10"
       description: |2-
           Responsibilities include:
-          * Analysing
-          * Modelling
-          * Deploying
+          * Data Visualization
+          * Data Modelling
       title: Data Scientist      
     title: Experience
   design:
@@ -61,8 +61,8 @@ sections:
       tag: '*'
     - name: Machine Learning
       tag: Machine Learning
-    - name: Data Science
-      tag: Data Science
+    - name: Data Analysis
+      tag: Data Analysis
     - name: Other
       tag: Demo
     default_button_index: 0
@@ -90,7 +90,6 @@ sections:
     - certificate_url: https://www.credly.com/badges/d2725022-b66a-4d80-b250-b26d9ab40714?source=linked_in_profile
       date_end: ""
       date_start: "2022-06-01"
-      description: Formulated informed blockchain models, hypotheses, and use cases.
       organization: Microsoft
       organization_url: https://www.microsoft.com
       title: Microsoft Certified Azure AI Fundamentals
