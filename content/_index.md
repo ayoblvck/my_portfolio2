@@ -20,7 +20,7 @@ sections:
       name: Data Visualization (Tableau, Power Bi, ggplot, shiny, plotly, Matplotlb)
     - icon: cloud
       icon_pack: custom
-      name: Deployment and Cloud Computing (Flask, AWS, Azure)
+      name: Deployment and Cloud Computing (Flask, AWS, Azure"")
     - icon: program
       icon_pack: custom
       name: Programming Languages (Python, R, JavaScript)
@@ -104,7 +104,7 @@ sections:
       city: London, United Kingdom
       country: United Kingdom
       country_code: UK
-    appointment_url: https://calendly.com
+    appointment_url: https://calendly.com/maryamsanni
     autolink: true
     email: maryamsanni1@yahoo.com
     form:
